@@ -14,13 +14,13 @@ Software Engineering student based in Brasília, Brazil.
 
 ## About
 
-Software Engineering student with experience in backend development, relational databases, REST APIs, automation and business intelligence.
+Software Engineering student with experience in backend development, relational databases, REST APIs, process automation, AI-assisted workflows and business intelligence.
 
-My main areas of interest are backend architecture, database modeling, application security, multi-tenant systems and operational platforms.
+My main areas of interest are backend architecture, database modeling, application security, multi-tenant systems, AI integrations and operational platforms.
 
 - **Location:** Brasília, Brazil
 - **Education:** Software Engineering
-- **Main focus:** Backend Development and Databases
+- **Main focus:** Backend Development, Databases and Automation
 - **Languages:** Portuguese — Native | English — Intermediate
 
 ---
@@ -57,6 +57,18 @@ My main areas of interest are backend architecture, database modeling, applicati
 
 <br><br>
 
+### AI and Automation
+
+<img src="https://img.shields.io/badge/AI_Assisted_Automation-111827?style=for-the-badge" alt="AI Assisted Automation"/>
+
+<img src="https://img.shields.io/badge/AI_Integrations-111827?style=for-the-badge" alt="AI Integrations"/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-111827?style=for-the-badge" alt="Prompt Engineering"/>
+
+<img src="https://img.shields.io/badge/Workflow_Automation-111827?style=for-the-badge" alt="Workflow Automation"/>
+
+<br><br>
+
 ### Data and Business Intelligence
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI"/>
@@ -81,7 +93,10 @@ My main areas of interest are backend architecture, database modeling, applicati
 - REST API development and system integration
 - Relational database modeling
 - PostgreSQL and Microsoft SQL Server
-- Process and workflow automation
+- AI-assisted process automation
+- AI tool and API integrations
+- Prompt engineering and workflow design
+- Process and task automation
 - Business intelligence dashboards
 - Software architecture
 - Multi-tenant systems
@@ -114,6 +129,8 @@ The platform is designed to centralize negotiations, deadlines, operational info
 - Continuous integration
 - Operational dashboards
 - Process and deadline management
+- Planned AI-assisted operational analysis
+- Planned intelligent workflow automation
 
 **Status:** Under active development
 
