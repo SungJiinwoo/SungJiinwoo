@@ -8,6 +8,10 @@
 
 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-gabriel-4266b0422/) • [Email](mailto:joaogb9j@gmail.com)
 
+<img width="480" src="https://media.giphy.com/media/ySvhFxq6Z4LrbqaikJ/giphy.gif" alt="Sung Jinwoo summoning his shadow army in Solo Leveling"/>
+
+*Arise.*
+
 </div>
 
 ---
@@ -22,6 +26,33 @@ My main areas of interest are backend architecture, database modeling, applicati
 - **Education:** Software Engineering, 7th semester, Centro Universitário UDF
 - **Main focus:** Backend Development, Databases and Automation
 - **Languages:** Portuguese — Native | English — Intermediate
+
+---
+
+## How it started
+
+My first computer was my dad's Dell notebook, a Pentium Dual Core that froze even on Friv games. That's where I played Dragon City on Facebook and spent whole afternoons on Click Jogos. Having a computer of my own was a childhood dream.
+
+In 2013 I downloaded a pirated copy of Minecraft, and in 2015 I stopped just playing it: I started writing Minecraft mods in Java, in Eclipse, before I even knew what a class was. That's when programming became my thing. I was supposed to study Law, but I ended up choosing Software Engineering.
+
+The full story, and the study order I'd recommend to beginners, is in [MINHA-TRILHA.md](https://github.com/SungJiinwoo/engenharia-de-software-na-pratica/blob/main/MINHA-TRILHA.md) (in Portuguese).
+
+**Where I learned the most:** from Fabio Akita, on his channel [Akitando](https://www.youtube.com/@Akitando), about programming and about the software industry as a whole. And [Curso em Vídeo](https://www.youtube.com/@CursoemVideo), which helps a lot of beginners get started, me included.
+
+**Fun fact:** the username comes from Sung Jinwoo, from *Solo Leveling*. I'm an anime fan, and I like the idea behind the story: start at the lowest rank and level up one quest at a time.
+
+---
+
+## Study notes
+
+Notebooks I keep public so they can help whoever is starting out, the same way other people's notes helped me. All in Portuguese.
+
+| Repository | What's inside |
+|---|---|
+| [fundamentos-programacao](https://github.com/SungJiinwoo/fundamentos-programacao) | Programming fundamentals from scratch: logic, data structures and algorithms, with notes and tests |
+| [engenharia-de-software-na-pratica](https://github.com/SungJiinwoo/engenharia-de-software-na-pratica) | How the web works, APIs, environment variables, security, agile and ISO standards, in learning order |
+| [complexidade-algoritmos](https://github.com/SungJiinwoo/complexidade-algoritmos) | Algorithm complexity course: instrumented algorithms that count executions line by line |
+| [Inteligencia_Artificial_Linguagens_Formais_e_Automatos](https://github.com/SungJiinwoo/Inteligencia_Artificial_Linguagens_Formais_e_Automatos) | Artificial intelligence, formal languages and automata |
 
 ---
 
