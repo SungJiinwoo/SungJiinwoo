@@ -133,6 +133,18 @@ Students practice with official past exam questions, timed mock exams and essay 
 
 ---
 
+## Certifications
+
+| Course | Institution | Year |
+|---|---|---|
+| Banco de Dados SQL com MySQL | Udemy | 2024 |
+| PHP Básico (40 h) | Curso em Vídeo | 2024 |
+| HTML, CSS and JavaScript | Fundação Bradesco + Microsoft | 2024 |
+
+Certificates and verification codes: [SungJiinwoo/certificates](https://github.com/SungJiinwoo/certificates)
+
+---
+
 ## Spoken languages
 
 | Language | Level |
