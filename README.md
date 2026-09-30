@@ -31,7 +31,7 @@ My main areas of interest are backend architecture, database modeling, applicati
 
 ## How it started
 
-My first computer was my dad's Dell notebook, a Pentium Dual Core that froze even on Friv games. That's where I played Dragon City on Facebook and spent whole afternoons on Click Jogos. Having a computer of my own was a childhood dream.
+My first computer was my dad's Dell notebook, a Pentium Dual Core with integrated graphics that froze even on Friv games. That's where I played Dragon City on Facebook and spent whole afternoons on Click Jogos. Having a computer of my own was a childhood dream.
 
 In 2013 I downloaded a pirated copy of Minecraft, and in 2015 I stopped just playing it: I started writing Minecraft mods in Java, in Eclipse, before I even knew what a class was. That's when programming became my thing. I was supposed to study Law, but I ended up choosing Software Engineering.
 
