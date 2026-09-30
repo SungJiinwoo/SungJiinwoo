@@ -4,7 +4,7 @@
 
 ### Backend & Database Developer
 
-Software Engineering student based in Brasília, Brazil.
+7th-semester Software Engineering student based in Brasília, Brazil.
 
 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-gabriel-4266b0422/) • [Email](mailto:joaogb9j@gmail.com)
 
@@ -19,7 +19,7 @@ Software Engineering student with experience in backend development, relational 
 My main areas of interest are backend architecture, database modeling, application security, multi-tenant systems, AI integrations and operational platforms.
 
 - **Location:** Brasília, Brazil
-- **Education:** Software Engineering
+- **Education:** Software Engineering, 7th semester
 - **Main focus:** Backend Development, Databases and Automation
 - **Languages:** Portuguese — Native | English — Intermediate
 
