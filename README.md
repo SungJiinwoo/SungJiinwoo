@@ -107,32 +107,29 @@ My main areas of interest are backend architecture, database modeling, applicati
 
 ## Featured project
 
-### Vértia
+### TiraMil
 
-Operational management and intelligence platform developed for companies in the OPME sector.
+Study platform for ENEM, Brazil's national university entrance exam.
 
-The platform is designed to centralize negotiations, deadlines, operational information and management indicators.
+Students practice with official past exam questions, timed mock exams and essay writing, with an adaptive study schedule, minigames, rankings and a moderated community.
 
 ### Technologies
 
-`Python` `Django REST Framework` `PostgreSQL` `GitHub Actions`
+`TypeScript` `Next.js` `React` `PostgreSQL` `Supabase` `Tailwind CSS` `Claude API` `GitHub Actions`
 
 ### Architecture
 
-- Modular backend architecture
-- API-first development
-- Multi-tenant data isolation
-- PostgreSQL Row-Level Security
-- Role-based database access
-- Immutable audit trail
-- Automated tests
-- Continuous integration
-- Operational dashboards
-- Process and deadline management
-- Planned AI-assisted operational analysis
-- Planned intelligent workflow automation
+- PostgreSQL Row-Level Security with column-level grants
+- Mandatory two-factor authentication for admin and moderator roles, enforced in the database
+- Server-side scoring, so answers and scores cannot be forged from the browser
+- Payment webhooks verified by HMAC signature and confirmed against the gateway API, with idempotent processing
+- AI essay grading on paid plans, with a daily spending cap
+- Rule-based essay checks that run without AI
+- Installable Progressive Web App
+- LGPD compliance: personal data export and account deletion
+- Continuous integration running attack tests against a real database, plus CodeQL and secret scanning
 
-**Status:** Under active development
+**Status:** Pre-launch
 
 ---
 
