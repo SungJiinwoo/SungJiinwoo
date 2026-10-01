@@ -112,7 +112,7 @@ Notebooks I keep public so they can help whoever is starting out, the same way o
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode&theme=dark" alt="Git, GitHub, GitHub Actions and Visual Studio Code"/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode&theme=dark" alt="Git, GitHub, GitHub Actions, Docker and Visual Studio Code"/>
 
 </div>
 
@@ -133,6 +133,7 @@ Notebooks I keep public so they can help whoever is starting out, the same way o
 - Multi-tenant systems
 - Application security
 - Continuous integration with GitHub Actions
+- Containerization with Docker and Docker Compose
 
 ---
 
